@@ -1,0 +1,7 @@
+C:\Users\Misho\source\repos\PrgpFund1909\PrgpFund1909\bin\Debug\PrgpFund1909.exe.config
+C:\Users\Misho\source\repos\PrgpFund1909\PrgpFund1909\bin\Debug\PrgpFund1909.exe
+C:\Users\Misho\source\repos\PrgpFund1909\PrgpFund1909\bin\Debug\PrgpFund1909.pdb
+C:\Users\Misho\source\repos\PrgpFund1909\PrgpFund1909\obj\Debug\PrgpFund1909.csprojResolveAssemblyReference.cache
+C:\Users\Misho\source\repos\PrgpFund1909\PrgpFund1909\obj\Debug\PrgpFund1909.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\PrgpFund1909\PrgpFund1909\obj\Debug\PrgpFund1909.exe
+C:\Users\Misho\source\repos\PrgpFund1909\PrgpFund1909\obj\Debug\PrgpFund1909.pdb

@@ -1,0 +1,7 @@
+C:\Users\Misho\source\repos\Lab031809\Lab031809\bin\Debug\Lab031809.exe.config
+C:\Users\Misho\source\repos\Lab031809\Lab031809\bin\Debug\Lab031809.exe
+C:\Users\Misho\source\repos\Lab031809\Lab031809\bin\Debug\Lab031809.pdb
+C:\Users\Misho\source\repos\Lab031809\Lab031809\obj\Debug\Lab031809.csprojResolveAssemblyReference.cache
+C:\Users\Misho\source\repos\Lab031809\Lab031809\obj\Debug\Lab031809.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\Lab031809\Lab031809\obj\Debug\Lab031809.exe
+C:\Users\Misho\source\repos\Lab031809\Lab031809\obj\Debug\Lab031809.pdb

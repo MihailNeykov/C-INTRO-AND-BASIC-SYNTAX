@@ -1,0 +1,6 @@
+C:\Users\Misho\source\repos\PrgpFund1909\ProgFund1909p02\bin\Debug\ProgFund1909p02.exe.config
+C:\Users\Misho\source\repos\PrgpFund1909\ProgFund1909p02\bin\Debug\ProgFund1909p02.exe
+C:\Users\Misho\source\repos\PrgpFund1909\ProgFund1909p02\bin\Debug\ProgFund1909p02.pdb
+C:\Users\Misho\source\repos\PrgpFund1909\ProgFund1909p02\obj\Debug\ProgFund1909p02.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\PrgpFund1909\ProgFund1909p02\obj\Debug\ProgFund1909p02.exe
+C:\Users\Misho\source\repos\PrgpFund1909\ProgFund1909p02\obj\Debug\ProgFund1909p02.pdb
